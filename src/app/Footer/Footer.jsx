@@ -15,7 +15,7 @@ export default function Footer() {
                         <nav className="list-none">
                             <li><a className="text-white hover:text-gray-800">92014978</a></li>
                             <li><a className="text-white hover:text-gray-800">FRONT-END</a></li>
-                            <li><a className="text-white hover:text-gray-800" href="https://github.com/rrvv01" target="_blank" rel="noopener noreferrer">Git</a></li>
+                            <li><a className="text-white hover:text-gray-800" href="https://GitHubhub.com/rrvv01" target="_blank" rel="noopener noreferrer">GitHub</a></li>
                         </nav>
                     </div>
                     <div className="px-4">
@@ -23,7 +23,7 @@ export default function Footer() {
                         <nav className="list-none">
                             <li><a className="text-white hover:text-gray-800">92015312</a></li>
                             <li><a className="text-white hover:text-gray-800">FRONT-END</a></li>
-                            <li><a className="text-white hover:text-gray-800" href="https://github.com/dongha0212" target="_blank" rel="noopener noreferrer">Git</a></li>
+                            <li><a className="text-white hover:text-gray-800" href="https://GitHubhub.com/dongha0212" target="_blank" rel="noopener noreferrer">GitHub</a></li>
                         </nav>
                     </div>
                     <div className="px-4">
@@ -31,7 +31,7 @@ export default function Footer() {
                         <nav className="list-none">
                             <li><a className="text-white hover:text-gray-800">92015295</a></li>
                             <li><a className="text-white hover:text-gray-800">BACK-END</a></li>
-                            <li><a className="text-white hover:text-gray-800" href="https://github.com/gongjae" target="_blank" rel="noopener noreferrer">Git</a></li>
+                            <li><a className="text-white hover:text-gray-800" href="https://GitHubhub.com/gongjae" target="_blank" rel="noopener noreferrer">GitHub</a></li>
                         </nav>
                     </div>
                     <div className="px-4">
@@ -39,7 +39,7 @@ export default function Footer() {
                         <nav className="list-none">
                             <li><a className="text-white hover:text-gray-800">92014942</a></li>
                             <li><a className="text-white hover:text-gray-800">BACK-END</a></li>
-                            <li><a className="text-white hover:text-gray-800" href="https://github.com/rkdalsgur" target="_blank" rel="noopener noreferrer">Git</a></li>
+                            <li><a className="text-white hover:text-gray-800" href="https://GitHubhub.com/rkdalsgur" target="_blank" rel="noopener noreferrer">GitHub</a></li>
                         </nav>
                     </div>
                 </div>
