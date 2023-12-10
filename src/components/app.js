@@ -8,8 +8,6 @@ import { hideLoading } from '@/redux/slices/cartSlice'
 import { usePathname } from 'next/navigation'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
-
-
 export default function App({ children }) {
   const dispatch = useDispatch()
 
@@ -37,6 +35,5 @@ export default function App({ children }) {
       </div>
       <CartSidebar />
     </div>
-    
   )
 }

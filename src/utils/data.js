@@ -8,8 +8,7 @@ export const data = {
       countInStock: 10,
       rating: 4.5,
       numReviews: 10,
-      description:
-        '가죽과 흡사하면서도 편의성을 갖춘 Premium Vegan Leather를 사용하였습니다.',
+      description: '가죽과 흡사하면서도 편의성을 갖춘 Premium Vegan Leather를 사용하였습니다.',
     },
     {
       id: '2',
@@ -109,8 +108,7 @@ export const data = {
       countInStock: 5,
       rating: 4.5,
       numReviews: 10,
-      description:
-        '브랜드를 대표하는 스니커즈로 40여년 동안 사랑받아 왔습니다. 깊은 역사를 가진 농구화의 클래식 디자인에 모던한 터치를 녹여낸 새로운 버전을 만나보세요.',
+      description: '브랜드를 대표하는 스니커즈로 40여년 동안 사랑받아 왔습니다. 깊은 역사를 가진 농구화의 클래식 디자인에 모던한 터치를 녹여낸 새로운 버전을 만나보세요.',
     },
     {
       id: '12',
@@ -120,8 +118,7 @@ export const data = {
       countInStock: 5,
       rating: 4.5,
       numReviews: 10,
-      description:
-        '시대를 초월하는 자연스러움과 실용성. 50년이 넘는 시간 동안 큰 사랑을 받고 있는 아이코닉한 스탠 스미스를 만나보세요. 2024년부터 전면 재활용 폴리에스테르 사용을 목표로 하는 혁신적인 신개념 슈즈입니다.',
+      description: '시대를 초월하는 자연스러움과 실용성. 50년이 넘는 시간 동안 큰 사랑을 받고 있는 아이코닉한 스탠 스미스를 만나보세요. 2024년부터 전면 재활용 폴리에스테르 사용을 목표로 하는 혁신적인 신개념 슈즈입니다.',
     },
     {
       id: '13',
@@ -131,8 +128,7 @@ export const data = {
       countInStock: 5,
       rating: 4.5,
       numReviews: 10,
-      description:
-        '최상급 트윈페이스 양가죽 소재로 고급스럽고 편안한 착화감 제공',
+      description: '최상급 트윈페이스 양가죽 소재로 고급스럽고 편안한 착화감 제공',
     },
     {
       id: '14',
@@ -152,8 +148,7 @@ export const data = {
       countInStock: 5,
       rating: 4.5,
       numReviews: 10,
-      description:
-        ' 부드러우며 튼튼한 내구성과 내마모성을 자랑하는 Smooth Leather 소재 사용',
+      description: ' 부드러우며 튼튼한 내구성과 내마모성을 자랑하는 Smooth Leather 소재 사용',
     },
     {
       id: '16',
@@ -163,8 +158,7 @@ export const data = {
       countInStock: 5,
       rating: 4.5,
       numReviews: 10,
-      description:
-        '혼방하여 두께감을 높인 이중직 아이템. 뜨거운물에 장시간 펠팅 처리를하여 컴팩트함을 살린 후, 부드러운 촉감을 위해 정밀한 브러싱을 하였습니다.',
+      description: '혼방하여 두께감을 높인 이중직 아이템. 뜨거운물에 장시간 펠팅 처리를하여 컴팩트함을 살린 후, 부드러운 촉감을 위해 정밀한 브러싱을 하였습니다.',
     },
     {
       id: '17',
@@ -184,8 +178,7 @@ export const data = {
       countInStock: 5,
       rating: 4.5,
       numReviews: 10,
-      description:
-        '함모량을 극대화로 늘려 밀도감, 방한성을 높였습니다. 또한, 특유의 감도 높은 퍼로 가벼운 활동성을 제공합니다.',
+      description: '함모량을 극대화로 늘려 밀도감, 방한성을 높였습니다. 또한, 특유의 감도 높은 퍼로 가벼운 활동성을 제공합니다.',
     },
     {
       id: '19',
@@ -225,8 +218,7 @@ export const data = {
       countInStock: 5,
       rating: 4.5,
       numReviews: 10,
-      description:
-        '장소, 시간에 구애받지 않는 ALL 시즌 필수 아이템으로 자리잡은 스웨트 팬츠',
+      description: '장소, 시간에 구애받지 않는 ALL 시즌 필수 아이템으로 자리잡은 스웨트 팬츠',
     },
     {
       id: '23',
@@ -246,8 +238,7 @@ export const data = {
       countInStock: 5,
       rating: 4.5,
       numReviews: 10,
-      description:
-        '세련된 크림 톤의 컬러감과 밀도 높은 질감을 표현하기 위하여 특수 가공 처리가 진행되었습니다',
+      description: '세련된 크림 톤의 컬러감과 밀도 높은 질감을 표현하기 위하여 특수 가공 처리가 진행되었습니다',
     },
     {
       id: '25',
@@ -257,8 +248,7 @@ export const data = {
       countInStock: 5,
       rating: 4.5,
       numReviews: 10,
-      description:
-        '미드라이즈 와이드는 너무 길지 않은 밑위와 힙을 감싸주면서 허벅지부터 밑단까지 와이드한 핏의 데님팬츠입니다',
+      description: '미드라이즈 와이드는 너무 길지 않은 밑위와 힙을 감싸주면서 허벅지부터 밑단까지 와이드한 핏의 데님팬츠입니다',
     },
   ],
 }

@@ -13,11 +13,11 @@ export default function Home() {
 
   return (
     <main>
-      <div className='p-12 mb-96'>
+      <div className="p-12 mb-96">
         <div className="grid grid-cols-1 gap-4 md:grid-cols-3 lg:grid-cols-4 sm:grid-cols-2">
           {filteredProducts.map((product) => (
             <ProductItem key={product.id} product={product} />
-            ))}
+          ))}
         </div>
       </div>
       <Footer></Footer>

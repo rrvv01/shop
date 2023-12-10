@@ -1,9 +1,10 @@
 export default function CheckoutWizard({ activeStep = 0 }) {
   const CheckoutSteps = [
-    'User Login',
-    'Shipping Address',
-    'Payment Method',
-    'Place Order',
+    '회원 로그인',
+    '배송지 주소',
+    '결제수단',
+    '결제확인',
+    '결제완료',
   ]
   return (
     <div className="mb-5 flex flex-wrap">
